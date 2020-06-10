@@ -1,3 +1,20 @@
 body{
-    background: navy;
+    background: rgb(255, 255, 255);
+}
+.img_mini{
+    width: 30px;
+}
+.img_sub{
+    width: 200px;
+}
+body{
+    margin: 200px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 40px;
+}
+footer{
+    margin-top: 60px;
 }
